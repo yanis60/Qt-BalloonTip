@@ -4,5 +4,7 @@ BalloonTip on Qt
 BalloonTip *msg = new BalloonTip(QStyle::SP_MessageBoxInformation,"Title","Content message",Time in ms,Widget);
         msg->show();
 #Screenshot
-![image](https://user-images.githubusercontent.com/30592254/152634501-50657778-ea91-4d71-92d8-3747556e9820.png)
+
+![image](https://user-images.githubusercontent.com/30592254/152634524-58510d57-0f15-4a73-805b-137a9771db07.png)
+
 
